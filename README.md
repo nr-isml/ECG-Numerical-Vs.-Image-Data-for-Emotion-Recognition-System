@@ -15,3 +15,7 @@ The ECG Numerical.py file contains Python code used to classify emotion using fe
 **Python Version**
 
 Python version 3.8.5 is used in this code.
+
+**DOI**
+
+https://doi.org/10.5281/zenodo.5542739
